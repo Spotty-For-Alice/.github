@@ -12,6 +12,7 @@ A user story: you use Spotify as the main music service on your smartphone and d
 	src="https://user-images.githubusercontent.com/55200686/168449126-d5a2d635-4aee-4779-8ba4-ba2ee12d0150.png" 
 	height="600"
 />
+
 You should start Telegram bot where you should authorize to Spotify (via OAuth 2.0) and Yandex.Music (sorry, but enter login and password). You also need to do simple authorization in Yandex.Dialogs (write your email address). It's necessary to link id from Alice with Yandex.Music id (yes, they are different).
 Then you can query playlists from Spotify and choose one to migrate tracks from it to Yandex.Music. And, after the migration end, you can listen to new music in Yandex. 
 
